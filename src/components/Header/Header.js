@@ -24,8 +24,8 @@ const Header = () => (
       <li><Link href="">
         <NavLink>About</NavLink>
       </Link></li>
-      <li><Link href="">
-        <NavLink>Blog</NavLink>
+      <li><Link href="https://my-blog-ved-2805.vercel.app/">
+        <NavLink href="https://my-blog-ved-2805.vercel.app/" >Blog</NavLink>
       </Link></li>
     </Div2>
     <Div3>
