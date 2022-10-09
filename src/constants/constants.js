@@ -38,7 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
- 
-  { year: 2021, text: 'Started My Programming Journey With C , C++ and Basic Data Structures', },
-  { year: 2022, text: 'Learned Basic Web Development , then React and Next Js , also learned backend , databases and Java . ', },
+  { year: 2006, text: 'Euro Kids ', },
+  { year: 2009, text: 'Niraj Public School', },
+  { year: 2013, text: 'Pallavi Model School', },
+  { year: 2016, text: 'Narayana Olympiad School', },
+  { year: 2019, text: 'Narayana Junior College', },
+  { year: 2021, text: 'National Institute Of Technology , Kurukshetra', },
 ];

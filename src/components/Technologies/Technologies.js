@@ -36,7 +36,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Knowledge about <br />
             NodeJs , npm and Databases
           </ListParagraph>
         </ListContainer>
@@ -49,7 +49,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Mobile App Development</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Knowledge about <br />
             React Native - A popular cross platform development tool
           </ListParagraph>
         </ListContainer>
@@ -61,7 +61,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Knowledge about <br />
             Object Oriented Languages like C++ and Java
           </ListParagraph>
         </ListContainer>
@@ -74,7 +74,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Linux</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Knowledge about <br />
             Debian - Based Systems like Ubuntu and Kali Linux .
           </ListParagraph>
         </ListContainer>
