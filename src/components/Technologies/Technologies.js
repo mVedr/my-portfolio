@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range of technologies in the web development world.
+      From Back-end To Design To Frontend ...
     </SectionText>
     <List>
       <ListItem>
@@ -22,7 +22,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
+            Knowledge about <br />
             React.js , Next.js , HTML , CSS and Javascript
           </ListParagraph>
         </ListContainer>
@@ -57,6 +57,7 @@ const Technologies = () =>  (
       <ListItem>
         <picture>
           <DiJava size="3rem" />
+          
         </picture>
         <ListContainer>
           <ListTitle>Programming Languages</ListTitle>

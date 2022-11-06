@@ -9,10 +9,10 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
           Welcome To <br/>
-          My Personal Website
+          My Personal Space
       </SectionTitle>
       <SectionText>
-        This website contains all my projects , skills and also my personal blog !
+        This site contains all my projects , skills and also my blog !
       </SectionText>
       <Button onClick={()=>window.location='https://github.com'}>Learn More</Button>
     </LeftSection>
