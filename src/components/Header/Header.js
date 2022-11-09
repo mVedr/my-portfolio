@@ -2,10 +2,11 @@ import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub,  AiFillLinkedin,AiFillTwitterCircle,AiFillLi } from 'react-icons/ai';
 import { DiCssdeck, DiStackoverflow } from 'react-icons/di';
-
+import Birthday from '../Birthday/Birthday';
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons ,Span} from './HeaderStyles';
 
 const Header = () => (
+  <>
   <Container>
     <Div1>
       <Link href="/">
@@ -40,6 +41,8 @@ const Header = () => (
       </SocialIcons>
     </Div3>
   </Container>
+  <Birthday></Birthday>
+  </>
 );
 
 export default Header;
