@@ -16,13 +16,13 @@ const Header = () => (
       </Link>
     </Div1>
     <Div2>
-      <li><Link href="">
+      <li><Link href="#projects">
         <NavLink>Projects</NavLink>
       </Link></li>
-      <li><Link href="">
+      <li><Link href="#tech">
         <NavLink>Technologies</NavLink>
       </Link></li>
-      <li><Link href="">
+      <li><Link href="#about">
         <NavLink>About</NavLink>
       </Link></li>
       <li><Link href="https://my-blog-ved-2805.vercel.app/">
@@ -41,7 +41,7 @@ const Header = () => (
       </SocialIcons>
     </Div3>
   </Container>
-  <Birthday></Birthday>
+ 
   </>
 );
 

@@ -22,9 +22,10 @@ const Home = () => {
         <BgAnimation />
       </Section>
       <Projects />
+      <Acomplishments />
       <Technologies />
       <Timeline />
-      <Acomplishments />
+
     </Layout></>
   );
 };

@@ -14,7 +14,15 @@ const Hero = (props) => (
       <SectionText>
         This site contains all my projects , skills and also my blog !
       </SectionText>
-      <Button onClick={()=>window.location='https://github.com'}>Learn More</Button>
+      <div style={{ display: 'flex', gap: '36px', padding: '10px', margin: '10px' }}>
+  <Button onClick={() => window.open('https://leetcode.com/VedRecharla/', '_blank')}>Leetcode</Button>
+  <Button onClick={() => window.open('https://www.codechef.com/users/ved280503', '_blank')}>Codechef</Button>
+  <Button onClick={() => window.open('https://codeforces.com/profile/Fakemvr732', '_blank')}>Codeforces</Button>
+  <Button onClick={() => window.open('https://leetcode.com/fakemvr32/', '_blank')}>Leetcode Contests</Button>
+</div>
+
+
+
     </LeftSection>
   </Section>
 );
