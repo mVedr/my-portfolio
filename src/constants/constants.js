@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: 'Orange.io - Complete AI Assistant',
-    description: "Made using Flutter, Firebase and OpenAI's API.This assisant supports voice commands also.This app also generates images based on given commands.",
-      image: '/images/aip.jpg',
+    title: 'Orange.io - AI Assistant',
+    description: "Made using Flutter and Firebase.This assisant supports voice commands also and generates images based on given commands.",
+      image: '/images/ai2.jpg',
       tags: ['Flutter', 'Open AI', 'FireBase'],
     source: 'https://github.com/mVedr/orange-io',
     visit: 'https://play.google.com/store/apps/details?id=com.mvedr.orangeio',
@@ -13,8 +13,8 @@ export const projects = [
     description:"A full stack MERN mobile application where instead of react, I have used flutter for frontend. ",
     image: '/images/ecc.png',
     tags: ['Node JS','Express JS','MongoDb','Flutter'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/mVedr/ecom-flutter/',
+    visit: 'https://github.com/mVedr/ecom-flutter/',
     id: 1,
   },
   {

@@ -8,7 +8,7 @@ const Acomplishments = () => (
   <Section>
    <SectionTitle>Accomplishments</SectionTitle> 
    <SectionText >Specialist - Codeforces</SectionText>
-   <SectionText >3 Star - Codeforces</SectionText>
+   <SectionText >3 Star - Codechef</SectionText>
    <SectionText >Top 10% - Leetcode Contests</SectionText>
    <SectionText >Solved More Than 900 problems across all coding platforms</SectionText>
   </Section>

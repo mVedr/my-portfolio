@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAndroid, DiApple, DiCss3, DiFirebase, DiHtml5, DiJava, DiJavascript, DiJavascript1, DiLinux, DiMysql, DiNodejs, DiNpm, DiPostgresql, DiReact, DiUbuntu, DiZend } from 'react-icons/di';
+import { DiAndroid, DiApple, DiCss3, DiDart, DiFirebase, DiHtml5, DiJava, DiJavascript, DiJavascript1, DiLinux, DiMysql, DiNodejs, DiNpm, DiPostgresql, DiPython, DiReact, DiUbuntu, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -45,25 +45,26 @@ const Technologies = () =>  (
         <picture>
           <DiApple size="3rem" />
           <DiAndroid size="3rem" />
+          <DiDart size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Mobile App Development</ListTitle>
           <ListParagraph>
             Knowledge about <br />
-            React Native - A popular cross platform development tool
+            Flutter And React Native 
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
           <DiJava size="3rem" />
-          
+          <DiPython size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
             Knowledge about <br />
-            Object Oriented Languages like C++ and Java
+            Object Oriented Languages like C++ , Python and Java
           </ListParagraph>
         </ListContainer>
       </ListItem>
